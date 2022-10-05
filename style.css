@@ -65,4 +65,34 @@ header {
 footer {
 	background-color:#A2A6B4;
 color: #FCFDFF;
+}
+
+.container {
+	border: 3px solid black;
+	border-radius: 4px;
+	width: 800px;
+	padding: 20px;
+	margin: 20px auto;
+	box-shadow: 5px 5px 16px rgba(0, 0, 0, 5);
+
+	}
+
+.rond {
+	width: 300px;
+	}
+
+.btn {
+	background-color: #A2A6B4;
+	border : none;
+	color: black;
+	text-align: center;
+	text text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 10px 8px;
+	padding: 20px 20px;
+	border-radius: 2rem;
+	box box-sizing: border-box;
+	text-decoration: none;
+}
 
